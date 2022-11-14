@@ -48,24 +48,7 @@ namespace ProjetoMVC.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Employees");
-                });
-
-            modelBuilder.Entity("ProjetoMVC.Models.Domain.Manager", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Managers");
+                    b.ToTable("Employees", (string)null);
                 });
 #pragma warning restore 612, 618
         }
