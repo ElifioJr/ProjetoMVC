@@ -11,5 +11,7 @@ namespace ProjetoMVC.Data
 
         public DbSet<Employee> Employees { get; set; }
 
+        public DbSet<Manager> Manager { get; set; }
+
     }
 }

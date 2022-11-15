@@ -15,12 +15,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Elifio Jr\Documents\Projetos\ProjetoMVC\ProjetoMVC\ProjetoMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Elifio Jr/Documents/Projetos/ProjetoMVC/ProjetoMVC/ProjetoMVC/Views/Employees/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Elifio Jr/Documents/Projetos/ProjetoMVC/ProjetoMVC/ProjetoMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Elifio Jr/Documents/Projetos/ProjetoMVC/ProjetoMVC/ProjetoMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elifio Jr/Documents/Projetos/ProjetoMVC/ProjetoMVC/ProjetoMVC/Views/Managers/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Elifio Jr/Documents/Projetos/ProjetoMVC/ProjetoMVC/ProjetoMVC/Views/Shared/Error.cshtml]
