@@ -1,12 +1,10 @@
-﻿namespace ProjetoMVC.Models.Domain
+﻿ namespace ProjetoMVC.Models
 {
-    public class Employee
+    public class UpdateEmployeeViewModel
     {
-
-
         public Guid Id { get; set; }
 
-        public string Name { get; set; }    
+        public string Name { get; set; }
 
         public string Email { get; set; }
 
