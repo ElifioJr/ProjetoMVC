@@ -36,10 +36,13 @@
         <input type="text" class="form-control" asp-for="Department">
     </div>
 
+    <div class="d-grid gap-2">
+        <button type="submit" class="btn btn-primary">Alterar</button>
 
-    <button type="submit" class="btn btn-primary">Atualizar</button>
-
-    <button type="submit" class="btn btn-danger"
-            asp-action="Delete"
-    asp-controller="Employees">Deletar</button>
+        <button type="submit" class="btn btn-danger"
+                asp-action="Delete"
+                asp-controller="Employees">
+                Deletar
+        </button>
+    </div>
 </form>

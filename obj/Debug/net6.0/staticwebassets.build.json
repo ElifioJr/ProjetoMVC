@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q+6EiR9yb2QHft1/BASMqBNslpMwDIxZfgUPgJnO6iQ=",
+  "Hash": "hA6uZQvVVPcR1FzTPc+/L8aPUEyqzRwBkpEgtHlmqRk=",
   "Source": "ProjetoMVC",
   "BasePath": "_content/ProjetoMVC",
   "Mode": "Default",
@@ -49,6 +49,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Elifio Jr\\Documents\\Projetos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjetoMVC.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Elifio Jr\\Documents\\Projetos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC\\wwwroot\\add.png",
+      "SourceId": "ProjetoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elifio Jr\\Documents\\Projetos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC\\wwwroot\\",
+      "BasePath": "_content/ProjetoMVC",
+      "RelativePath": "add.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\add.png"
+    },
+    {
+      "Identity": "C:\\Users\\Elifio Jr\\Documents\\Projetos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC\\wwwroot\\casa.png",
+      "SourceId": "ProjetoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elifio Jr\\Documents\\Projetos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC\\wwwroot\\",
+      "BasePath": "_content/ProjetoMVC",
+      "RelativePath": "casa.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\casa.png"
     },
     {
       "Identity": "C:\\Users\\Elifio Jr\\Documents\\Projetos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC\\wwwroot\\css\\site.css",
@@ -1069,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Elifio Jr\\Documents\\Projetos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC\\wwwroot\\tabela.png",
+      "SourceId": "ProjetoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elifio Jr\\Documents\\Projetos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC\\wwwroot\\",
+      "BasePath": "_content/ProjetoMVC",
+      "RelativePath": "tabela.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\tabela.png"
     }
   ]
 }
